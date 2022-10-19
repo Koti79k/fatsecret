@@ -1,7 +1,7 @@
 
-<h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> Everyone <a href="https://starlit-klepon-070419.netlify.app/" target="_blank"> Welcome </a></h1>
+<h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> Everyone <a href="https://heroic-cucurucho-53a4c0.netlify.app/" target="_blank"> Welcome </a></h1>
 <h3 align="center" >-----  Created A clone of  -----</h3>
-<h1 align="center"><a href="https://starlit-klepon-070419.netlify.app/" target="_blank"> Fatsecret.com</a></h1>
+<h1 align="center"><a href="https://heroic-cucurucho-53a4c0.netlify.app/" target="_blank"> Fatsecret.com</a></h1>
 
 <p>
 About
