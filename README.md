@@ -39,27 +39,22 @@ This clone website is part of our first project in masai school where we have to
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
 <h2>Responsibilities<h2>
-<h4> Shivam kumar singh </h4>
+<h4> Koteswararao </h4>
   <p> Created a landing page with cool features:-</p>
       <ul>
         <li>On hover Navbar</li>
-        <li>Carousel</li>
+        <li>Search bar</li>
         <li>Footer</li>
       </ul>
-      <img src="./readMdImages/landingpageImage.png"/>
+      <img src="./Images/1.png"/>
+      
 
-<h4>Anshul Singla</h4>
- <p> Created a Login/SignUp form it is the sequence of 4 form with taking number , sending otp , checking weather it's correct or not , taking email , user details. </p>
  <div style="display: grid; grid-template-columns: repeat(2,1fr); " >
   <img style="width: 200px;" src="./readMdImages/signup1.png" alt="">
   <img style="width: 200px;" src="./readMdImages/signup2.png" alt="">
   <img style="width: 200px;" src="./readMdImages/signup3.png" alt="">
   <img style="width: 200px;" src="./readMdImages/signup4.png" alt="">
  </div>
-
-<h4>Koteswararao</h4>
- <p> Created a Food Section Using food related API for more effient way user can easily see the all details of food related information. And all functionalities use us Javascript ES6 concept. </p>
-      <img src="./readMdImages/payments.png"/>
 
 
   
