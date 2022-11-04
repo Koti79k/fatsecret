@@ -4,7 +4,7 @@ function Navbar(){
 <tr>
     <td style="width:50%;"></td>
     <td valign="bottom" style="padding:0px" rowspan="2">
-    <img src="https://a.ftscrt.com/static/images/splash/Logo_Tab_Reverse_Green.png" style="vertical-align:bottom;">
+    <img src="./Images/p8.png" style="vertical-align:bottom;">
 </td>
 <td width="50%">&nbsp;</td>
 
@@ -29,7 +29,7 @@ function Navbar(){
         highest quality food and nutrition database.
       </h3>
       <div class="lock-2">
-        <img src="https://static.fatsecret.com/static/images/splash/Logo_Tab_Green.png">
+        <img src="./Images/p9.png">
       </div>
   </div>
  
@@ -58,7 +58,7 @@ function Navbar(){
 
   <div id="fourth-section">
     <div class="lock-3">
-        <img src="https://static.fatsecret.com/static/images/splash/Logo_Tab_Grey.png">
+        <img src="./Images/p10.png">
       </div>
     <div id="para-5">
         <div id="card-1">
@@ -66,30 +66,30 @@ function Navbar(){
         </div>
         <div class="tertiaryText inlineElement" style="width:47%;vertical-align: top">
             <div class="topPadding">
-                <img class="inlineElement" src="https://a.ftscrt.com/static/images/splash/Check_Tick.png">
+                <img class="inlineElement" src="./Images/t2.png">
                 <p class="noStyle inlineElement featureList">A food diary to keep track of what you're eating</p>
             </div>
             <div class="topPadding">
-                <img class="inlineElement" src="https://a.ftscrt.com/static/images/splash/Check_Tick.png">
+                <img class="inlineElement" src="./Images/t3.png">
                 <p class="noStyle inlineElement featureList">A large collection of healthy recipes for your diet</p>
             </div>
             <div class="topPadding">
-                <img class="inlineElement" src="https://a.ftscrt.com/static/images/splash/Check_Tick.png">
+                <img class="inlineElement" src="./Images/t4.png">
                 <p class="noStyle inlineElement featureList">Nutrition info for all foods, brands and restaurants</p>
             </div>
         </div>
 
         <div class="tertiaryText inlineElement" style="width:47%;padding-left:5%;vertical-align: top">
             <div class="topPadding">
-                <img class="inlineElement" src="https://a.ftscrt.com/static/images/splash/Check_Tick.png">
+                <img class="inlineElement" src="./Images/t4.png">
                 <p class="noStyle inlineElement featureList">An exercise diary to record all the calories you burn</p>
             </div>
             <div class="topPadding">
-                <img class="inlineElement" src="https://a.ftscrt.com/static/images/splash/Check_Tick.png">
+                <img class="inlineElement" src="./Images/t4.png">
                 <p class="noStyle inlineElement featureList">A weight chart and journal to record your progress</p>
             </div>
             <div class="topPadding">
-                <img class="inlineElement" src="https://a.ftscrt.com/static/images/splash/Check_Tick.png">
+                <img class="inlineElement" src="./Images/t4.png">
                 <p class="noStyle inlineElement featureList">Mobile apps for iPhone, iPad and Android</p>
             </div>
         </div>
@@ -99,7 +99,7 @@ function Navbar(){
 </div>
 <div id="fifth-section">
     <div class="lock-5">
-        <img src="https://static.fatsecret.com/static/images/splash/Logo_Tab_Green.png">
+        <img src="./Images/p9.png">
       </div>
       <div id="card-2">
         <h1>Superb 100% FREE calorie counter apps</h1>
@@ -107,24 +107,24 @@ function Navbar(){
     </div>
     <div class="tertiaryText inlineElement" style="width:47%;vertical-align: top">
         <div class="topPadding">
-            <img class="inlineElement" src="https://a.ftscrt.com/static/images/splash/Check_Tick.png">
+            <img class="inlineElement" src="./Images/t4.png">
             <p class="noStyle inlineElement featureList">A food diary to keep track of what you're eating</p>
         </div>
         <div class="topPadding">
-            <img class="inlineElement" src="https://a.ftscrt.com/static/images/splash/Check_Tick.png">
+            <img class="inlineElement" src="./Images/t4.png">
             <p class="noStyle inlineElement featureList">A large collection of healthy recipes for your diet</p>
         </div>
 
         <div id="img-logo1">
-            <img src="https://static.fatsecret.com/static/images/mobi/ios/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="">
-            <img src="https://static.fatsecret.com/static/images/mobi/android/en_get_2.svg" alt="">
+            <img src="./Images/P2.svg" alt="">
+            <img src="./Images/p3.svg" alt="">
             
             
-             <!-- <img class="img1" src="https://static.fatsecret.com/static/images/splash/Logo_Tab_Reverse_Green.png" alt=""> -->
+             <!-- <img class="img1" src="./Images/p8.png" alt=""> -->
       
          </div> 
 <div id="card-img">
-<img src="https://static.fatsecret.com/static/images/splash/img_splash_getconnected_01_1x.png" alt="">
+<img src="./Images/p11.png" alt="">
 </div>
 <div>
 </div>
@@ -133,7 +133,7 @@ function Navbar(){
 
 <div id="sixth-section">
     <div class="lock-4">
-        <img src="https://static.fatsecret.com/static/images/splash/Logo_Tab_Blue.png">
+        <img src="./Images/p10.png">
       </div>
       <div id="card-2">
         <h1>Sign Up Now!</h1>
@@ -145,19 +145,19 @@ function Navbar(){
 </div>
 <div id="seventh-section">
 <div class="lock-4">
-    <img src="https://static.fatsecret.com/static/images/splash/Logo_Tab_Black.png">
+    <img src="./Images/p12.png">
   </div>
 
 
-  <img src="https://a.ftscrt.com/static/images/splash/FS_Logo_SplashScreen_Green.png" alt="">
+  <img src="./Images/p12.png" alt="">
 
   <div id="img-logo2">
     <h4>Get The App</h4>
-    <img src="https://static.fatsecret.com/static/images/mobi/ios/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="">
-    <img src="https://static.fatsecret.com/static/images/mobi/android/en_get_2.svg" alt="">
+    <img src="./Images/P2.svg" alt="">
+    <img src="./Images/p3.svg" alt="">
     
     
-     <!-- <img class="img1" src="https://static.fatsecret.com/static/images/splash/Logo_Tab_Reverse_Green.png" alt=""> -->
+     <!-- <img class="img1" src="./Images/p8.png" alt=""> -->
 
  </div> 
 </div>
@@ -183,7 +183,7 @@ function Navbar(){
     <p>© 2022 FatSecret. All rights reserved.</p>
 </div>
     
-  </div>`
+  </div>`;
 
 }
 Navbar();

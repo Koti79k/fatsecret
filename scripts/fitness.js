@@ -6,7 +6,7 @@ const exerciseArr = [
   {
     heading: "Golf (cart)",
     fiveMin: 12,
-    image: "https://a.ftscrt.com/static/images/fitness/lrg_golf-(cart).gif",
+    image: "./Images/gif2.gif",
     tenMin: function () {
       return this.fiveMin * 2;
     },
@@ -20,8 +20,7 @@ const exerciseArr = [
   {
     heading: "Stretching (yoga)",
     fiveMin: 24,
-    image:
-      "https://a.ftscrt.com/static/images/fitness/lrg_stretching-(yoga).gif",
+    image: "./Images/gif3.gif",
     tenMin: function () {
       return this.fiveMin * 2;
     },
@@ -35,7 +34,7 @@ const exerciseArr = [
   {
     heading: "Motor-Cross",
     fiveMin: 24,
-    image: "https://a.ftscrt.com/static/images/fitness/lrg_motor-cross.gif",
+    image: "./Images/gif4.gif",
     tenMin: function () {
       return this.fiveMin * 2;
     },
@@ -49,8 +48,7 @@ const exerciseArr = [
   {
     heading: "Dance (fast step, aerobic)",
     fiveMin: 37,
-    image:
-      "https://a.ftscrt.com/static/images/fitness/lrg_dance-(fast-step-aerobic).gif",
+    image: "./Images/gif5.gif",
     tenMin: function () {
       return this.fiveMin * 2;
     },

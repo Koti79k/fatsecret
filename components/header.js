@@ -10,7 +10,7 @@ function header () {
       <div class="container">
         <div id="logo">
           <a href="index.html">
-            <img src="https://a.ftscrt.com/static/images/def20/Fatsecret_logo.png" alt="Fatsecret_logo" id="logoImg">
+            <img src="./Images/P1.png" alt="Fatsecret_logo" id="logoImg">
           </a>
           <div>INDIA</div>
         </div>

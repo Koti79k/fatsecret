@@ -72,7 +72,7 @@ function section(){
 <div>
  <span>
      * What Activity Level should I choose?
-     <button onclick="Submit12()"><img src="https://a.ftscrt.com/static/images/registration/popover.png" alt=""></button>
+     <button onclick="Submit12()"><img src="./Images/j1.png" alt=""></button>
      <div id="myDIV">.</div>
  </span>
 

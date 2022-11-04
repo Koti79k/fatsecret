@@ -1,6 +1,6 @@
 let nav2 = () => {
     return `<div id="im">
-            <img src="https://img.freepik.com/free-vector/spoon-fork-knife-plate-3d-illustration_33099-205.jpg" alt="">
+            <img src="./Images/p6.png" alt="">
             <div id="tag">
                 <h2>Foods</h2>
                 <p>Browse common foods and products from your favourite brands and restaurants.<p>
